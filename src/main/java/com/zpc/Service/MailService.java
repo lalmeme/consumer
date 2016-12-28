@@ -1,8 +1,7 @@
-package com.zpc.Service;
+package com.zpc.service;
 
 import com.zpc.entity.MailEntity;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.ExceptionDepthComparator;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

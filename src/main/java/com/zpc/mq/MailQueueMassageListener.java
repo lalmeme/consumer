@@ -1,7 +1,7 @@
 package com.zpc.mq;
 
 import com.alibaba.fastjson.JSONObject;
-import com.zpc.Service.MailService;
+import com.zpc.service.MailService;
 import com.zpc.entity.MailEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsTemplate;
